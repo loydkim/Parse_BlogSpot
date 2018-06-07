@@ -12,6 +12,6 @@ Develop environment.
 You can watch how to make it in my youtube channel and blog !
 
 - Youtube link : https://youtu.be/OBz0-1exnYQ
-- Blog post link : https://loydioslab.blogspot.ca/2017/05/objective-c-how-to-how-to-parse.html
+- Blog post link : https://loydlab.blogspot.com/2017/05/objective-c-how-to-how-to-parse.html
 
 Thank you :)
